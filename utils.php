@@ -1,5 +1,7 @@
 <?php
 
+session_start();
+
 // Load DotEnv variables
 require 'DotEnv.php';
 (new DotEnv(__DIR__ . '/.env'))->load();

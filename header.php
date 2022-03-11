@@ -1,3 +1,9 @@
+<?php
+
+require_once "utils.php";
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -64,6 +70,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
+      <a href="/hospital/login.php" class="btn btn-outline-primary btn-sm ms-4">Login</a>
       <a href="#appointment" class="appointment-btn scrollto"><span class="d-none d-md-inline">Make an</span> Appointment</a>
 
     </div>
