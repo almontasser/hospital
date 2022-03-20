@@ -51,7 +51,7 @@ require_once "../utils.php";
             <a class="nav-link" aria-current="page" href="/teachers/nationalities.php">الجنسيات</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="/teachers/states.php">الحالات</a>
+            <a class="nav-link" aria-current="page" href="/hospital/dashboard/users.php">المستخدمين</a>
           </li>
         </ul>
         <ul class="navbar-nav d-flex">
