@@ -56,7 +56,7 @@ require_once "../utils.php";
         </ul>
         <ul class="navbar-nav d-flex">
           <?php
-          if (!isset($_SESSION["user_id"]) || $_SESSION["user_name"] == '') { ?>
+          if (!isset($_SESSION["user_name"]) || $_SESSION["user_name"] == '') { ?>
             <li class="nav-item">
               <a class="btn btn-outline-primary" aria-current="page" href="/hospital/login.php">تسجيل الدخول</a>
             </li>

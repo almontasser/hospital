@@ -1,0 +1,127 @@
+{
+    "emptyTable": "הךÓÊ חזÇד ÈךÇזÇÊ וÊÇÍÉ בך ÇהÌÏטה",
+    "loadingRecords": "ÌÇÑם ÇהÊÍוךה...",
+    "processing": "ÌÇÑם ÇהÊÍוךה...",
+    "lengthMenu": "ÃØחÑ _MENU_ וÏÎהÇÊ",
+    "zeroRecords": "הו ךÙËÑ Ùהי ÃךÉ ÓÌהÇÊ",
+    "info": "ÅØחÇÑ _START_ Åהי _END_ וז ÃÕה _TOTAL_ וÏÎה",
+    "infoEmpty": "ךÙÑÖ 0 Åהי 0 וז ÃÕה 0 ÓÌה",
+    "infoFiltered": "(וזÊגÇÉ וז וÌוטÙ _MAX_ וןÏÎה)",
+    "search": "ÇÈÍË:",
+    "paginate": {
+        "first": "ÇהÃטה",
+        "previous": "ÇהÓÇÈג",
+        "next": "ÇהÊÇהך",
+        "last": "ÇהÃÎךÑ"
+    },
+    "aria": {
+        "sortAscending": ": ÊבÙךה הÊÑÊךÈ ÇהÙוטÏ ÊÕÇÙÏךÇכ",
+        "sortDescending": ": ÊבÙךה הÊÑÊךÈ ÇהÙוטÏ ÊזÇÒהךÇכ"
+    },
+    "select": {
+        "rows": {
+            "_": "%d גךוÉ וÍÏÏÉ",
+            "0": "",
+            "1": "1 גךוÉ וÍÏÏÉ"
+        },
+        "1": "%d Ó×Ñ וÍÏÏ",
+        "_": "%d ÃÓ×Ñ וÍÏÏÉ",
+        "cells": {
+            "1": "1 ÎהךÉ וÍÏÏÉ",
+            "_": "%d ÎהÇךÇ וÍÏÏÉ"
+        },
+        "columns": {
+            "1": "1 ÙוטÏ וÍÏÏ",
+            "_": "%d ÃÙוÏÉ וÍÏÏÉ"
+        }
+    },
+    "buttons": {
+        "print": "×ÈÇÙÉ",
+        "copyKeys": "ÒÑ <i>ctrl<\/i> Ãט <i>?<\/i> + <i>C<\/i> וז ÇהÌÏטה<br>הךÊו זÓÎחÇ Åהי ÇהÍÇבØÉ<br><br>ההÅהÚÇÁ ÇÖÚ× Ùהי ÇהÑÓÇהÉ Ãט ÇÖÚ× Ùהי ÒÑ ÇהÎÑטÌ.",
+        "copySuccess": {
+            "_": "%d גךוÉ זÓÎÊ",
+            "1": "1 גךוÉ זÓÎÊ"
+        },
+        "pageLength": {
+            "-1": "ÇØחÇÑ Çהדה",
+            "_": "ÅØחÇÑ %d ÃÓ×Ñ"
+        },
+        "collection": "וÌוטÙÉ",
+        "copy": "זÓÎ",
+        "copyTitle": "זÓÎ Åהי ÇהÍÇבØÉ",
+        "csv": "CSV",
+        "excel": "Excel",
+        "pdf": "PDF",
+        "colvis": "ÅØחÇÑ ÇהÃÙוÏÉ",
+        "colvisRestore": "ÅÓÊÙÇÏÉ ÇהÙÑÖ"
+    },
+    "autoFill": {
+        "cancel": "ÅהÚÇÁ",
+        "info": "וËÇה Ùז ÇהוהÆ ÇהÊהגÇÆך",
+        "fill": "ÇוהÃ ÌוךÙ ÇהÍגטה Èא <i>%d&lt;\\\/i&gt;<\/i>",
+        "fillHorizontal": "ÊÙÈÆÉ ÇהÍגטה ÃבגךכÇ",
+        "fillVertical": "ÊÙÈÆÉ ÇהÍגטה ÙוטÏךÇ"
+    },
+    "searchBuilder": {
+        "add": "ÇÖÇבÉ ÔÑ×",
+        "clearAll": "ÇÒÇהÉ Çהדה",
+        "condition": "ÇהÔÑ×",
+        "data": "ÇהוÙהטוÉ",
+        "logicAnd": "ט",
+        "logicOr": "Ãט",
+        "title": [
+            "וזÔÆ ÇהÈÍË"
+        ],
+        "value": "ÇהגךוÉ",
+        "conditions": {
+            "date": {
+                "after": "ÈÙÏ",
+                "before": "גÈה",
+                "between": "Èךז",
+                "empty": "בÇÑÚ",
+                "equals": "ÊÓÇטך",
+                "not": "הךÓ",
+                "notBetween": "הךÓÊ Èךז",
+                "notEmpty": "הךÓÊ בÇÑÚÉ"
+            },
+            "number": {
+                "between": "Èךז",
+                "empty": "בÇÑÚÉ",
+                "equals": "ÊÓÇטך",
+                "gt": "ÃדÈÑ וז",
+                "gte": "ÃדÈÑ טÊÓÇטך",
+                "lt": "Ãגה וז",
+                "lte": "Ãגה טÊÓÇטך",
+                "not": "הךÓÊ",
+                "notBetween": "הךÓÊ Èךז",
+                "notEmpty": "הךÓÊ בÇÑÚÉ"
+            },
+            "string": {
+                "contains": "ךÍÊטך",
+                "empty": "בÇÚ",
+                "endsWith": "ךזÊחך È",
+                "equals": "ךÓÇטך",
+                "not": "הךÓÊ",
+                "notEmpty": "הךÓÊ בÇÑÚÉ",
+                "startsWith": " ÊÈÏÃ Èא "
+            }
+        },
+        "button": {
+            "0": "בהÇÊÑ ÇהÈÍË",
+            "_": "בהÇÊÑ ÇהÈÍË (%d)"
+        },
+        "deleteTitle": "ÍÐב בהÇÊÑ"
+    },
+    "searchPanes": {
+        "clearMessage": "ÇÒÇהÉ Çהדה",
+        "collapse": {
+            "0": "ÈÍË",
+            "_": "ÈÍË (%d)"
+        },
+        "count": "ÙÏÏ",
+        "countFiltered": "ÙÏÏ ÇהובהÊÑ",
+        "loadMessage": "ÌÇÑנ ÇהÊÍוךה ...",
+        "title": "ÇהבהÇÊÑ ÇהזÔ×É"
+    },
+    "searchPlaceholder": "ÇÈÍË ..."
+  }  
