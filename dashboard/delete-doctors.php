@@ -1,6 +1,5 @@
-<?php
 
-include_once "./utils.php";
+include_once "../utils.php";
 
 if (isset($_POST["id"])) {
   $id = _esc($_POST["id"]);
@@ -8,4 +7,4 @@ if (isset($_POST["id"])) {
   $con->query($sql);
 }
 
-header("Location: /hospital/doctors.php");
+header("Location: /hospital/dashboard/doctors.php");
